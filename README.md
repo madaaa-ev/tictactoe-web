@@ -18,7 +18,7 @@ Created by: mada arf.9
 
 ### Tips Tampilan Responsif
 
-- **Zoom Manual **: 
+- ## Zoom Manual : 
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/shiro-nesu/database-img/main/file_1772741311931.jpeg" alt="TicTacToe Screenshot" width="70%" style="max-width:100%; height:auto; object-fit:cover; border-radius:12px;"/>
