@@ -33,4 +33,4 @@ Created by: mada arf.9
 
 ---
 
-🔥 Don’t miss out! Every move shapes the bot’s strategy!
+🔥 Don’t miss out! Every move shapes the bot’s strategy!..
