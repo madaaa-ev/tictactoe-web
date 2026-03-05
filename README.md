@@ -1,6 +1,6 @@
 # TicTacToe Web Game 🎮
 
-💻 **Try it now:** [Play Here!](https://madaaa-ev.github.io/tictactoe-web/)
+📱💻 **Try it now:** [Play Here!](https://madaaa-ev.github.io/tictactoe-web/)
 
 ---
 
